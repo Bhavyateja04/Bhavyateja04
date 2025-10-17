@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Full Stack Developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm P Bhavya Teja</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ---
 
@@ -7,17 +7,17 @@
 - 🌱 I’m learning **React Native & Next.js**
 - 👯 I’m looking to collaborate on **Web and Mobile App projects**
 - 💬 Ask me about **JavaScript, React, or Django**
-- 📫 How to reach me **[your-email@example.com]**
+- 📫 How to reach me **[bhavyapenke@gmail.com]**
 - ⚡ Fun fact: I love building things that make life easier 😄
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/yourusername" target="blank">
+<a href="https://www.linkedin.com/in/bhavya-p-b01225291/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://yourportfolio.vercel.app" target="blank">
+<a href="https://bhavyateja04.github.io/my_portfolio/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="portfolio" height="30" width="40" />
 </a>
 </p>

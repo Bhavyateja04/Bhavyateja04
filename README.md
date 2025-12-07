@@ -49,6 +49,3 @@
 </p>
 
 ---
-
-### 🐍 Snake eating my contribution graph
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)

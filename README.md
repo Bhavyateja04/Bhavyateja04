@@ -25,7 +25,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="..." height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
----
+--
 ### 🧠 Languages and Tools:
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
 

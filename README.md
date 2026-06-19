@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhavyateja04&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavyateja04&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Bhavyateja04&theme=radical" />
 </p>
 
 ---

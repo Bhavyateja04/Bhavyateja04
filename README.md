@@ -43,20 +43,6 @@
 
 ---
 
-### 🔥 What I’m Working On
-
-- 🛒 Mini E-Commerce Platform (Django)
-- 📦 Product Catalog Backend (Spring Boot + PostgreSQL + Docker)
-- 💬 Chat UI (React Native)
-
----
-
-### 🌍 Portfolio
-
-👉 https://bhavyateja04.github.io/my_portfolio/
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">

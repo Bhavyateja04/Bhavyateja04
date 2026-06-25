@@ -1,55 +1,157 @@
-<h1 align="center">Hi 👋, I'm P Bhavya Teja</h1>
-<h3 align="center">🚀 Full Stack Developer | React • Node • Django</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhavya-p-b01225291/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhavya%20Teja-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://bhavyateja04.github.io/my_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome">
-  </a>
-  <a href="mailto:bhavyapenke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+# Hi 👋 I'm Bhavya Teja
 
----
+### Software Engineer · Backend Systems · Full Stack · AI/ML
 
-### 👨‍💻 About Me
+Building reliable, scalable software — currently shipping production code at **Flipkart**.
 
-- 🔭 Currently building **Full Stack Apps (React + Node + MongoDB)**
-- 🌱 Exploring **React Native & Next.js**
-- 👯 Open to collaborate on **Web & Mobile Projects**
-- 💬 Ask me about **JavaScript, React, Django**
-- ⚡ Fun fact: *I build things that actually solve problems 😄*
+[![Email](https://img.shields.io/badge/Email-bhavyateja05%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhavyateja05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,express,mongodb,django,html,css,bootstrap,git,github,vscode,postman" />
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Bhavyateja04&theme=radical" />
-</p>
+- 🛠️ Software Engineer with hands-on experience building backend systems that run in production, not just on paper
+- ⚙️ Comfortable across the stack — from REST APIs and microservices to React-based frontends
+- 💳 Have worked on systems where reliability and correctness genuinely matter (payments, authentication)
+- 🤖 Apply machine learning and NLP to practical problems — classification, recommendations, content moderation
+- 🧩 Spend a lot of time on DSA and problem-solving — 400+ problems solved across competitive platforms
+- 📐 Currently deepening my understanding of system design and how large-scale systems are actually built
+- 🚀 Drawn to the engineering behind scalable, fault-tolerant systems more than any single language or framework
+- 🌱 Always shipping something — a side project, an experiment, or a deeper dive into a CS fundamental
 
 ---
 
-### 🤝 Let's Connect
+## Tech Stack
 
-<p align="center">
-<a href="https://www.linkedin.com/in/bhavya-p-b01225291/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="mailto:bhavyapenke@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-</p>
+**Languages**
+
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![Cpp](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+**Backend**
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django)
+
+**Databases**
+
+![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+**Cloud & DevOps**
+
+![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode)
+
+**AI/ML**
+
+![PyTorch](https://skillicons.dev/icons?i=pytorch) `Hugging Face` · `Google AI Studio` · `Google Colab` · `n8n`
+
+---
+
+## Experience Highlight
+
+### 💼 Software Development Engineer Intern — **Flipkart**
+*May 2025 – Jul 2025*
+
+At one of India's largest e-commerce platforms, I worked on backend infrastructure that had to hold up under real load and real money:
+
+- **Built for scale** — Designed backend microservices on **Java 17 and Dropwizard** that process **10,000+ transactions daily**
+- **Built for speed** — Cut API latency by **25%** through serialization tuning and connection pooling
+- **Built for trust** — Took the Credit Fund EMI feature from design through to production, working cross-functionally to drive a **30% increase** in credit conversion
+- **Built for safety** — Integrated **PCI-DSS compliant** banking APIs with end-to-end encryption and retry logic, holding a **99.9% success rate** under peak traffic
+- **Built for the team** — Pushed clean code and testing practices that cut code review turnaround by **15%** and meaningfully raised test coverage
+
+> The throughline: backend work where correctness and uptime aren't optional.
+
+---
+
+## Featured Projects
+
+### 🛡️ GuardHub — Security Workforce Management Platform
+
+| | |
+|---|---|
+| **Description** | A full workforce management platform for security personnel — replacing manual, register-based attendance with automated, role-aware tracking |
+| **Key Features** | Biometric attendance sync via scheduled cron jobs · conflict-aware shift scheduling · leave/OD/overtime tracking · role-based dashboards for Admins and Supervisors |
+| **Tech Stack** | `MongoDB` `Node.js` `Cron Jobs` `Role-Based Access Control` |
+| **Impact** | Actively used by **150+ security personnel**, eliminating manual attendance tracking |
+| **Links** | [GitHub](https://github.com/YOUR_GITHUB_USERNAME/guardhub) · [Live Demo](https://your-live-demo-link.com) |
+
+### 🏫 Smart Campus Platform
+
+| | |
+|---|---|
+| **Description** | A scalable full-stack platform unifying campus services — Lost & Found, Marketplace, and Canteen — under one app |
+| **Key Features** | Secure JWT + bcrypt authentication · AI-powered image similarity matching · automated content moderation · intelligent recommendations · optimized schema and queries |
+| **Tech Stack** | `React Native` `Node.js` `MongoDB` `JWT` `REST APIs` |
+| **Impact** | Supported **1,000+ users**, improved app performance by **20%**, cut unauthorized access by **40%**, and improved database efficiency by **35%** |
+| **Links** | [GitHub](https://github.com/YOUR_GITHUB_USERNAME/smart-campus-platform) · [Live Demo](https://your-live-demo-link.com) |
+
+### 📩 Spam Email Detection System
+
+| | |
+|---|---|
+| **Description** | An NLP-based classifier distinguishing spam from legitimate SMS messages at high accuracy |
+| **Key Features** | TF-IDF feature extraction · Multinomial Naive Bayes classification · full preprocessing and feature engineering pipeline · evaluated on the SMS Spam Collection dataset |
+| **Tech Stack** | `Python` `scikit-learn` `NLP` `TF-IDF` |
+| **Impact** | Classified **5,500+ messages** with **96.6% accuracy** |
+| **Links** | [GitHub](https://github.com/YOUR_GITHUB_USERNAME/spam-email-detection) · [Live Demo](https://your-live-demo-link.com) |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_CODECHEF_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR_GFG_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_HACKERRANK_USERNAME)
+
+</div>
+
+---
+
+## Achievements
+
+🏆 **Flipkart Runway 2025** — Selected as one of the **top 25 finalists among 100,000+ participants**
+
+🧮 **Competitive Programming** — Solved **400+ DSA problems** across LeetCode, CodeChef, and GeeksforGeeks
+
+### Certifications
+
+| Certification | Issuer |
+|---|---|
+| Oracle Certified Java Programmer (OCP) | Oracle Corporation |
+| MongoDB Associate Developer | MongoDB |
+| GitHub Foundations | Microsoft |
+| Networking Essentials | Cisco Networking Academy |
+| Certified Developer — 6 Skill Badges & 3 Certifications (Java, Python) | HackerRank |
+
+---
+
+## Currently Learning

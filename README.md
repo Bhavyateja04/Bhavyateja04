@@ -123,8 +123,6 @@ At one of India's largest e-commerce platforms, I worked on backend infrastructu
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavyateja04&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyateja04&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavyateja04&theme=dark&hide_border=true&background=0D1117)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhavyateja04&style=flat-square&color=blue)

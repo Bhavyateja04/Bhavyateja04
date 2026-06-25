@@ -49,14 +49,15 @@ Building reliable, scalable software — currently shipping production code at *
 
 ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-## 🛠️ Tech Stack
-
 ### 🤖 AI / ML
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" alt="Google AI Studio" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecolab.svg" alt="Google Colab" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40"/>
 </p>
-
 ---
 
 ## Experience Highlight

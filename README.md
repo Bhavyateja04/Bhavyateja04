@@ -82,7 +82,7 @@ At one of India's largest e-commerce platforms, I worked on backend infrastructu
 | **Key Features** | Biometric attendance sync via scheduled cron jobs · conflict-aware shift scheduling · leave/OD/overtime tracking · role-based dashboards for Admins and Supervisors |
 | **Tech Stack** | `MongoDB` `Node.js` `Cron Jobs` `Role-Based Access Control` |
 | **Impact** | Actively used by **150+ security personnel**, eliminating manual attendance tracking |
-| **Links** | [GitHub](https://github.com/YOUR_GITHUB_USERNAME/guardhub) · [Live Demo](https://your-live-demo-link.com) |
+| **Links** | [GitHub](https://github.com/Bhavyateja04/GuardHub) · [Live Demo](https://guardfrs.vercel.app/dashboard)|
 
 ### 🏫 Smart Campus Platform
 
@@ -92,7 +92,6 @@ At one of India's largest e-commerce platforms, I worked on backend infrastructu
 | **Key Features** | Secure JWT + bcrypt authentication · AI-powered image similarity matching · automated content moderation · intelligent recommendations · optimized schema and queries |
 | **Tech Stack** | `React Native` `Node.js` `MongoDB` `JWT` `REST APIs` |
 | **Impact** | Supported **1,000+ users**, improved app performance by **20%**, cut unauthorized access by **40%**, and improved database efficiency by **35%** |
-| **Links** | [GitHub](https://github.com/YOUR_GITHUB_USERNAME/smart-campus-platform) · [Live Demo](https://your-live-demo-link.com) |
 
 ### 📩 Spam Email Detection System
 
@@ -102,7 +101,7 @@ At one of India's largest e-commerce platforms, I worked on backend infrastructu
 | **Key Features** | TF-IDF feature extraction · Multinomial Naive Bayes classification · full preprocessing and feature engineering pipeline · evaluated on the SMS Spam Collection dataset |
 | **Tech Stack** | `Python` `scikit-learn` `NLP` `TF-IDF` |
 | **Impact** | Classified **5,500+ messages** with **96.6% accuracy** |
-| **Links** | [GitHub](https://github.com/YOUR_GITHUB_USERNAME/spam-email-detection) · [Live Demo](https://your-live-demo-link.com) |
+| **Links** | [GitHub](https://github.com/Bhavyateja04/Spam_Email_Detector) · [Live Demo](https://spamemaildetector-4r3ccsq6kweeqzfrufnmrq.streamlit.app/) |
 
 ---
 
@@ -110,12 +109,12 @@ At one of India's largest e-commerce platforms, I worked on backend infrastructu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavyateja04&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyateja04&layout=compact&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavyateja04&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Bhavyateja04&style=flat-square&color=blue)
 
 </div>
 
@@ -125,12 +124,12 @@ At one of India's largest e-commerce platforms, I worked on backend infrastructu
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_CODECHEF_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR_GFG_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_HACKERRANK_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavyateja04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya1220/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhavyapenke/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bhavyapenke)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/bhavyapenke)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bhavyapenke)
 
 </div>
 
@@ -153,5 +152,3 @@ At one of India's largest e-commerce platforms, I worked on backend infrastructu
 | Certified Developer — 6 Skill Badges & 3 Certifications (Java, Python) | HackerRank |
 
 ---
-
-## Currently Learning

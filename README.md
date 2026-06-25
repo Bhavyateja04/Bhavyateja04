@@ -58,7 +58,7 @@ Building reliable, scalable software — currently shipping production code at *
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecolab.svg" alt="Google Colab" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40"/>
 </p>
----
+
 
 ## Experience Highlight
 
@@ -112,14 +112,25 @@ At one of India's largest e-commerce platforms, I worked on backend infrastructu
 
 ## GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyateja04&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavyateja04&hide_border=true)
 
+## GitHub Stats -->
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavyateja04&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyateja04&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavyateja04&theme=dark&hide_border=true&background=0D1117)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhavyateja04&style=flat-square&color=blue)
 
 </div>
+<!-- </div> -->
 
 ---
 

@@ -19,7 +19,7 @@
 - ⚙️ Comfortable across the stack — from REST APIs and microservices to React-based frontends
 - 💳 Have worked on systems where reliability and correctness genuinely matter (payments, authentication)
 - 🤖 Apply machine learning and NLP to practical problems — classification, recommendations, content moderation
-- 🧩 Spend a lot of time on DSA and problem-solving — 400+ problems solved across competitive platforms
+- 🧩 Passionate about Data Structures & Algorithms, with 1000+ problems solved across LeetCode, GeeksforGeeks, and CodeChef.
 - 📐 Currently deepening my understanding of system design and how large-scale systems are actually built
 - 🚀 Drawn to the engineering behind scalable, fault-tolerant systems more than any single language or framework
 - 🌱 Always shipping something — a side project, an experiment, or a deeper dive into a CS fundamental

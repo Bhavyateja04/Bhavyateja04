@@ -114,8 +114,8 @@ At one of India's largest e-commerce platforms, I worked on backend infrastructu
 
 
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhavyateja04&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavyateja04&theme=dark&hide_border=true&background=0D1117)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhavyateja04&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bhavyateja04&theme=github-dark&hide_border=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhavyateja04&style=flat-square&color=blue)
 
 </div>
